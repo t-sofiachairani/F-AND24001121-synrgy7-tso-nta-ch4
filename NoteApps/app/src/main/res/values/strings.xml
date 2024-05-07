@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NoteApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="Register">Register</string>
+    <string name="username">Username</string>
+    <string name="daftar">Daftar</string>
+    <string name="dummy_text">hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello</string>
+    <string name="title">Title</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="delete_notes">Delete Notes</string>
+    <string name="delete">Delete</string>
+    <string name="kisah_hari_ini">Kisah hari ini...</string>
+</resources>
